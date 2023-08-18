@@ -8,7 +8,7 @@ const HomePage = () => {
           src="/rectangle-1@2x.png"
         />
         <div className="absolute top-[4.31rem] left-[1.25rem]">
-          HILL GLOBAL MARKET
+          HILL GLOBAL MARKET .
         </div>
       </div>
       <a
